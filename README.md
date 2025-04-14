@@ -4,7 +4,7 @@
 
 ### 💫 About Me
 
-🔭 I’m currently working on **React / React Native / Next.js**  
+🔭 I’m currently working on **React /React Native / Next.js**  
 🌱 I’m currently learning **Node.js, Express.js, and MongoDB**  
 💬 Ask me about **React Native / React**
 
@@ -49,24 +49,13 @@
 
 ---
 
-### 📚 Most Used Languages
 
-| Language           | Usage     |
-|--------------------|-----------|
-| ![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white) | 78.27% |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 14.29% |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | 4.37% |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | 2.20% |
-| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | 0.65% |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) | 0.22% |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | — |
-| ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | — |
-| ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | — |
-| ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) | — |
 
----
 
-### 🌟 Other Tools
+
+
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -84,7 +73,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+
+
+
+
+
+
+
 <!---
-Anand3941/Anand3941 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anand3941/Anand3941 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->  
