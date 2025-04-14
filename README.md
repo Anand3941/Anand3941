@@ -38,14 +38,13 @@
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 ---
+Jupyter Notebook ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 78.27%  
+JavaScript       ▓▓▓▓                      14.29%  
+TypeScript       ▓▓                         4.37%  
+CSS              ▓                          2.20%  
+HTML             ░                          0.65%  
+Kotlin           ░                          0.22%  
 
-### 📊 GitHub Stats
-
-![Anand3941's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anand3941&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anand3941&layout=compact&theme=radical)
-
----
 
 <!---
 Anand3941/Anand3941 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
